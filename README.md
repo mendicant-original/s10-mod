@@ -20,7 +20,7 @@ I take it.
 ## Exercise Summary
 
 - Choose a game.
-  - Students may not work on the same game.
+  - Students may work on the same game, but not on the same strategizer.
   - The game should be complex enough that a beginner cannot work out your
     proposed strategy.
 - Implement the Strategy Helper for your chosen game.
