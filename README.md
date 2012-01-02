@@ -2,16 +2,16 @@
 
 _written by: Shane Emmons_
 
-I like to play games of strategy, but I'm a moderate strategist at best.
-When I'm sitting at the game table, I often come up blank trying to think
+I like to play games, but I'm a moderate strategist at best. When I'm
+sitting at the game table, I often come up blank trying to think
 more than one or two moves ahead. That's where you come in. For this
-exercise you will build a Game Strategy Helper which let's me think
-several moves ahead.
+exercise you will build a Game Strategy Helper which does the heavy
+lifting of thinking several moves ahead.
 
 ## Examples
 
 - Chess best move. Given the current state of the board which move can I
-make that has the most potential for a checkmate in the next 10 moves.
+make that has the most potential for a checkmate in the next `n` moves.
 - Axis & Allies Dead Zones. Given I attack a position with units x, y, z.
 What is the statistical outcome of that fight, and given the current
 enemy positions what is the likelihood that I'll hold that position after
