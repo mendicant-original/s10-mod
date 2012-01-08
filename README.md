@@ -1,4 +1,4 @@
-# Challenge Exercise: The Game Strategy Helper
+# Modeling Exercise: The Game Strategy Helper
 
 _written by: Shane Emmons_
 
